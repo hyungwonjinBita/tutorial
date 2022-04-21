@@ -3,3 +3,4 @@ Add 変更をインデックスに登録する
 Commit　インデックスの状態を記録する
 Second file!!
 Did't save!!!
+Save done already!!
